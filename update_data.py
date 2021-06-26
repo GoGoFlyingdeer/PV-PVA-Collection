@@ -71,6 +71,9 @@ def listAvailableImg():
         if file.endswith(".png"):
             s+= "\""+file.replace(".png","")+"\","
             count += 1
+        if file.endswith(".jpg"):
+            s+= "\""+file.replace(".jpg","")+"\","
+            count += 1
     if count > 0:
         s = s[:len(s) - 1]
     s+= "]});"

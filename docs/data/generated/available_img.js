@@ -1,1 +1,1 @@
-define({ availableImg: ["Beck2016Visual.png","white2006.jpg"]});
+define({ availableImg: ["Beck2016Visual","white2006"]});

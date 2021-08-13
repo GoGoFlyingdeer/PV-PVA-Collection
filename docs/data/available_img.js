@@ -24,6 +24,7 @@ define({
     "valkanova2015.png",
     "vandemoere2012.png",
     "walsh2011.png",
+    "weiss2020",
     "white2006.png",
     "white2009a.png",
     "white2009b.png",

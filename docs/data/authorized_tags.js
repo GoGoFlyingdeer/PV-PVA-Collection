@@ -9,9 +9,6 @@ define({
     "definition:willett": {
       description: "paper describing a system",
     },
-    "definition:own_definition": {
-      description: "paper describing a system",
-    },
     "definition:no_definition": {
       description: "paper describing a system",
     },

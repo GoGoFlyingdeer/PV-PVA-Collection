@@ -1,4 +1,18 @@
 ﻿define({ entries : {
+    "Satkowski2021": {
+        "address": "New York, NY, USA",
+        "articleno": "522",
+        "author": "Satkowski, Marc and Dachselt, Raimund",
+        "booktitle": "Proc.  CHI '21",
+        "isbn": "9781450380966",
+        "keywords": "definition:willett, technology:AR, data:unclear, methodology:lab_study, visualization:custom",
+        "numpages": "15",
+        "publisher": "Association for Computing Machinery",
+        "title": "{Investigating the Impact of Real-World Environments on the Perception of 2D Visualizations in Augmented Reality}",
+        "type": "inproceedings",
+        "url": "https://doi.org/10.1145/3411764.3445330",
+        "year": "2021"
+    },
     "alallah2020": {
         "abstract": " Visual video analytics research, stemming from data captured by surveillance cameras, have mainly focused on traditional computing paradigms, despite emerging platforms including mobile devices. We investigate the potential for situated video analytics, which involves the inspection of video data in the actual environment where the video was captured [14]. Our ultimate goal is to explore the means to visually explore video data effectively, in situated contexts. We first investigate the performance of visual analytic tasks in situated vs. non-situated settings. We find that participants largely benefit from environmental cues for many analytic tasks. We then pose the question of how best to represent situated video data. To answer this, in a design session we explore end-users\u2019 views on how to capture such data. Through the process of sketching, participants leveraged being situated, and explored how being in-situ influenced the participants\u2019 integration of their designs. Based on these two elements, our paper proposes the need to develop novel spatial analytic user interfaces to support situated video analysis.",
         "address": "New York, NY, USA",
@@ -275,6 +289,23 @@
         "url": "https://arbook.icg.tugraz.at/schmalstieg/Schmalstieg_217.pdf",
         "year": "2011"
     },
+    "lee2021": {
+        "address": "New York, NY, USA",
+        "author": "Lee, Bokyung and Lee, Michael and Mogk, Jeremy and Goldstein, Rhys and Bibliowicz, Jacobo and Tessier, Alexander",
+        "booktitle": "Proc.  DIS '21",
+        "doi": "10.1145/3461778.3462030",
+        "isbn": "9781450384766",
+        "keywords": "definition:no_definition, technology:other, data:other, methodology:interviews, visualization:custom, visualization:standard",
+        "location": "Virtual Event, USA",
+        "numpages": "16",
+        "pages": "15\u201330",
+        "publisher": "Association for Computing Machinery",
+        "series": "DIS '21",
+        "title": "{Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19}",
+        "type": "inproceedings",
+        "url": "https://doi.org/10.1145/3461778.3462030",
+        "year": "2021"
+    },
     "li2017": {
         "abstract": "In this short paper we present the design of Duopography1, a dual-surface mobile tangible interface for spatial representation and manipulation of topography. The 3D physical topographic front of Duopography acts as a tangible interface, enabling sketching directly on the 3D terrain, as well as visual augmentation of the topography. At the same time, Duopography's flat back-of-device supports gestures that are hard to perform on the irregular front, allowing common interaction techniques such as panning and pinching. We contribute a prototype and the results of a preliminary evaluation of a dual-surface topography interface combining 3D printed front and a flat back-of-device.",
         "address": "New York, NY, USA",
@@ -292,6 +323,20 @@
         "type": "inproceedings",
         "url": "https://doi.org/10.1145/3132787.3139197",
         "year": "2017"
+    },
+    "lin2021": {
+        "address": "New York, NY, USA",
+        "articleno": "461",
+        "author": "Lin, Tica and Singh, Rishi and Yang, Yalong and Nobre, Carolina and Beyer, Johanna and Smith, Maurice A. and Pfister, Hanspeter",
+        "booktitle": "Proc.  CHI '21",
+        "isbn": "9781450380966",
+        "keywords": "definition:no_definition, technology:AR, technology:display, data:other, methodology:lab_study, visualization:custom",
+        "numpages": "13",
+        "publisher": "Association for Computing Machinery",
+        "title": "{Towards an Understanding of Situated AR Visualization for Basketball Free-Throw Training}",
+        "type": "inbook",
+        "url": "https://doi.org/10.1145/3411764.3445649",
+        "year": "2021"
     },
     "lobo2020": {
         "author": "Lobo, Mar{\\'i}a-Jes{\\'u}s and Christophe, Sidonie",
@@ -524,6 +569,23 @@
         "type": "inproceedings",
         "url": "https://crpit.scem.westernsydney.edu.au/confpapers/CRPITV117Walsh.pdf",
         "year": "2011"
+    },
+    "wannamaker2021": {
+        "address": "New York, NY, USA",
+        "author": "Wannamaker, Kendra A. and Kollannur, Sandeep Zechariah George and D\\\"{o}rk, Marian and Willett, Wesley",
+        "booktitle": "Proc.  DIS '21",
+        "doi": "10.1145/3461778.3462138",
+        "isbn": "9781450384766",
+        "keywords": "definition:willett, technology:display, data:personal, methodology:workshops, methodology:field_study, visualization:custom",
+        "location": "Virtual Event, USA",
+        "numpages": "15",
+        "pages": "523\u2013537",
+        "publisher": "Association for Computing Machinery",
+        "series": "DIS '21",
+        "title": "{I/O Bits: User-Driven, Situated, and Dedicated Self-Tracking}",
+        "type": "inproceedings",
+        "url": "https://doi.org/10.1145/3461778.3462138",
+        "year": "2021"
     },
     "weiss2020": {
         "abstract": "Ubiquitous, situated, and physical visualizations create entirely new possibilities for tasks contextualized in the real world, such as doctors inserting needles. During the development of situated visualizations, evaluating visualizations is a core requirement. However, performing such evaluations is intrinsically hard as the real scenarios are safety-critical or expensive to test. To overcome these issues, researchers and practitioners adapt classical approaches from ubiquitous computing and use surrogate empirical methods such as Augmented Reality (AR), Virtual Reality (VR) prototypes, or merely online demonstrations. This approach's primary assumption is that meaningful insights can also be gained from different, usually cheaper and less cumbersome empirical methods. Nevertheless, recent efforts in the Human-Computer Interaction (HCI) community have found evidence against this assumption, which would impede the use of surrogate empirical methods. Currently, these insights rely on a single investigation of four interactive objects. The goal of this work is to investigate if these prior findings also hold for situated visualizations. Therefore, we first created a scenario where situated visualizations support users in do-it-yourself (DIY) tasks such as crafting and assembly. We then set up five empirical study methods to evaluate the four tasks using an online survey, as well as VR, AR, laboratory, and in-situ studies. Using this study design, we conducted a new study with 60 participants. Our results show that the situated visualizations we investigated in this study are not prone to the same dependency on the empirical method, as found in previous work. Our study provides the first evidence that analyzing situated visualizations through different empirical (surrogate) methods might lead to comparable results.",

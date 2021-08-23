@@ -228,12 +228,13 @@
         "year": "2020"
     },
     "guarese2021augmented": {
+        "abstract": "In electrical engineering, hardware experts often need to analyze electromagnetic radiation data to detect any external interference or anomaly. The field that studies this sort of assessment is called electromagnetic compatibility (EMC). As a way to support EMC analysis, we propose the use of Augmented Situated Visualization (ASV) to supply professionals with visual and interactive information that helps them to comprehend that data, however situating it where it is most relevant in its spatial context. Users are able to interact with the visualization by changing the attributes being displayed, comparing the overlaps of multiple fields, and extracting data, as a way to refine their search. The solutions being proposed in this work were tested against each other in comparable 2D and 3D interactive visualizations of the same data in a series of data-extraction assessments with users, as a means to validate the approaches. Results exposed a correctness-time trade-off between the interaction methods. The hand-based techniques (Hand Slider and Touch Lens) were the least error-prone, being near to half as error-inducing as the gaze-based method. Touch Lens also performed as the least time-consuming method, taking in average less than half of the average time required by the others. For the visualization methods tested, the 2D ray casts presented a higher usability score and lesser workload index than the 3D topology view, however exposing over two times the error ratio. Ultimately, this work exposes how AR can help users to have better performances in a decision-making context, particularly in EMC related tasks, while also furthering the research in the ASV field.",
         "author": "Guarese, Renan and Andreasson, Pererik and Nilsson, Emil and Maciel, Anderson",
         "journal": "Computers \\& graphics",
-        "keywords": " definition:willett, technology:AR, data:engineering, methodology:lab_study, visualization:custom",
+        "keywords": "definition:willett, technology:AR, data:engineering, methodology:lab_study, visualization:custom",
         "pages": "1--10",
         "publisher": "Elsevier",
-        "series": "CG\\&A",
+        "series": "Computers & Graphics",
         "title": "Augmented situated visualization methods towards electromagnetic compatibility testing",
         "type": "article",
         "volume": "94",

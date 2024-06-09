@@ -1,4 +1,16 @@
 ﻿define({ entries : {
+    "7106388": {
+        "author": "Kurzhals, Kuno and Weiskopf, Daniel",
+        "doi": "10.1109/MCG.2015.47",
+        "journal": "IEEE Computer Graphics and Applications",
+        "keywords": "visualization:custom",
+        "number": "4",
+        "pages": "64-72",
+        "title": "Eye Tracking for Personal Visual Analytics",
+        "type": "ARTICLE",
+        "volume": "35",
+        "year": "2015"
+    },
     "Satkowski2021": {
         "address": "New York, NY, USA",
         "articleno": "522",

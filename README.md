@@ -31,7 +31,8 @@ Supplemental data is contained in 'src/data/':
 - 'papers_img' (optional): PNG thumbnails for the papers, please use the BibTeX id as a file name
 
 - 'tag_categories.js'：特殊标签类别列表；它们可以用作标签的前缀，并且例如，'a:b' 指的是标签类别 'a' 中的标签 'b' 
-- 'authorized_tags.js': 通过描述定义的标签（在 SurVis 中突出显示，描述显示为工具提示） 'search_stopwords.js'：用于从搜索查询中排除术语的停用词列表 
+- 'authorized_tags.js': 通过描述定义的标签（在 SurVis 中突出显示，描述显示为工具提示） 
+- 'search_stopwords.js'：用于从搜索查询中排除术语的停用词列表 
 - 'papers_pdf'（可选）：论文的 PDF 文件，请使用 BibTeX id 作为文件名 
 - 'papers_img'（可选）：论文的 PNG 缩略图，请使用 BibTeX id 作为文件名
 

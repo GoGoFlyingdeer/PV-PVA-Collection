@@ -2,7 +2,7 @@
  * Name as used as title for the main page
  * @type {string}
  */
-var title = "Situated Visualization Collection";
+var title = "PV & PVA Collection";
 
 /**
  * Relative path to the data directory
@@ -58,15 +58,16 @@ var editable = false;
  * @type {{html: string, id: string}}
  */
 var paper = {
-  html: 'Sample literature collection for <b><a href="" target="_blank">What is the situation with Situated Visualization</a></b>',
-  id: "situatedvisualization",
+  html: 'Sample literature collection for <br>What is the Design Space of Personal Visualization and Personal Visual Analytics',
+  // id: "situatedvisualization",
+  id: null,
 };
 
 /**
  * Extra pages like an about page that will be listed in the footer an can be opened on demand (page name -> path)
  */
 var extraPages = {
-  about: "about.html",
+  //about: "about.html",
 };
 
 /**

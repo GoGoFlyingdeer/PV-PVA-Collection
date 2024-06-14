@@ -126,7 +126,7 @@ define({
     "methodology:case_study": {
       description: "paper describing a system",
     },
-    "methodology:synthesis": {
+    "methodology:literature review": {
       description: "paper describing a system",
     },
     "methodology:taxonomy": {

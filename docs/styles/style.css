@@ -358,7 +358,7 @@ a:visited {
 }
 
 #extra_pages_list .button {
-    /*top: 0;*/
+    top: 0;
 }
 
 #menu {
@@ -401,4 +401,8 @@ a:visited {
     padding: 5px;
 }
 
+.small-image {
+    width: 6%;
+    height: auto;
+  }
 
